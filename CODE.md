@@ -1,7 +1,6 @@
 ENTIRE CODE:
 (Accuracy:99%)
 
-
 import pandas as pd
 
 url_fake = "https://media.githubusercontent.com/media/canUgitMe/Fake_News_Detection-csv-/refs/heads/main/Fake.csv"
